@@ -1,2 +1,2 @@
 # reactnative_web2app
-Código fonte reactnative que converte paginas web em app nativo android/ios usando webviews
+Código fonte reactnative/expo que converte paginas web em app nativo android/ios usando webview
